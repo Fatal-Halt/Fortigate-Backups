@@ -15,6 +15,6 @@ USAGE:
 * Replace <PORT> with your device's SSH port.
 * Replace <PRIVATE KEY> with the location of your private key
   * NOTE: if not using SSH Keys (WHICH YOU SHOULD), just remove the following: 
-    * '-i', '<PRIVATE KEY>',
+    * '-i', '\<PRIVATE KEY\>',
 * Replace <USERNAME> with the username you're connecting with
 * Replace <PASSWORD> with the password to unlock the SSH key. 
